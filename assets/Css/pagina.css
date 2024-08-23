@@ -1,0 +1,16 @@
+body,h1,ul
+{
+    text-align: center;
+    background-color: bisque;
+}
+.contenedor, .lista , .pregunta , .formulario {
+    background-color: aqua;
+    align-self: center ;
+}
+.pagina{
+    width: 20px;
+    height: 20px;
+    background-color: aquamarine;
+    margin: auto;
+    
+}
